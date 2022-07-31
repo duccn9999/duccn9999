@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MentallyHandicapped69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+"     Centered div"
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MentallyHandicapped69&icon=3&color=3)](https://visitcount.itsvg.in)
