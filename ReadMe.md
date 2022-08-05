@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
-<img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
+<img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px" display:flex>
 <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
 <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
 <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
