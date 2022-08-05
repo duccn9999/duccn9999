@@ -2,9 +2,9 @@
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
     <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
-    <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
-    <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
-    <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
