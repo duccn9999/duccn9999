@@ -2,7 +2,7 @@
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
     <img src="https://64.media.tumblr.com/069ba4186905cfedd6b5f1bd1d847f56/79bf07d305604f47-6f/s500x750/4c2718ef336c10da0b7556b4e82c27af0ebfe9ad.gifv" alt="street" width="25%" height="200px">
-    <img src="https://data.whicdn.com/images/241172997/original.gif" alt="street" width="25%" height="200px">
+    <img src="https://64.media.tumblr.com/95cc82ff16679e9e91221bfb955cbf05/tumblr_onjnhkbxxi1tlcfymo1_500.gifv" alt="street" width="25%" height="200px">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +15,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mentallyhandicapped69&" alt="mentallyhandicapped69" /></p>
 
 
-![flowers](https://user-images.githubusercontent.com/100286938/183091972-011500c9-e5fe-43c1-a3f4-c5f643c26632.gifv)
