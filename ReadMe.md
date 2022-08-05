@@ -5,6 +5,10 @@
     <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
     <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
     <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
