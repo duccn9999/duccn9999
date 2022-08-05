@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://images.fineartamerica.com/images/artworkimages/medium/3/1-ahegao-danilov-ilya-transparent.png" alt="ahegao" width="100px" height="100px">
-    <img src="https://images.fineartamerica.com/images/artworkimages/medium/3/1-ahegao-danilov-ilya-transparent.png" alt="ahegao" width="100px" height="100px">
-    <img src="https://images.fineartamerica.com/images/artworkimages/medium/3/1-ahegao-danilov-ilya-transparent.png" alt="ahegao" width="100px" height="100px">
-    <img src="https://images.fineartamerica.com/images/artworkimages/medium/3/1-ahegao-danilov-ilya-transparent.png" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
