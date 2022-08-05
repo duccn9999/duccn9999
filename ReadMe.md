@@ -3,7 +3,7 @@
 <div>
     <img src="https://64.media.tumblr.com/069ba4186905cfedd6b5f1bd1d847f56/79bf07d305604f47-6f/s500x750/4c2718ef336c10da0b7556b4e82c27af0ebfe9ad.gifv" alt="flowers" width="200px" height="200px">
     <img src="https://64.media.tumblr.com/95cc82ff16679e9e91221bfb955cbf05/tumblr_onjnhkbxxi1tlcfymo1_500.gifv" alt="blossom" width="200px" height="200px">
-    <img src="https://64.media.tumblr.com/ccb44e8d42f703a27464bdf4c581115b/fb7602a6b8e38998-83/s500x750/1c79ea4cd6931095c926e3d457b50a1efe51ea91.gifv" alt="leafs" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/8752f953fb24373c8fed70070ea7d8d2/tumblr_pd9yzzIUXE1x6a7yto1_250.gifv" alt="rain" width="200px" height="200px">
     <img src="https://64.media.tumblr.com/71eea599069b67c868eedb7595c0cb7c/tumblr_pcl1pbklw91tj52dfo1_540.gifv" alt="flower forest" width="200px" height="200px">
 </div>
 <h3 align="left">Connect with me:</h3>
