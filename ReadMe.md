@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="ahegao" width="100px" height="100px">
+    <img src="https://www.icegif.com/wp-content/uploads/aesthetic-icegif-10.gif" alt="ahegao" width="100px" height="100px">
     <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
     <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
     <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
