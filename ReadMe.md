@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="![image](https://user-images.githubusercontent.com/100286938/183095565-1ecf31e5-46cb-4a1c-abdc-25fa6ad49317.png)
-" alt="sky scrapper" width="100%" height="100%">
+    <img src="https://64.media.tumblr.com/5cf616d4e62824caffb673730d3f2072/tumblr_p8c7g9bWry1x0j068o1_1280.gifv" alt="sky scrapper" width="100%" height="100%">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
