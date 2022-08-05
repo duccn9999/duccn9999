@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://64.media.tumblr.com/01fe8e5becc60a62004c476e0b68ca72/ff786dc87683218c-8a/s540x810/32b61bc3f18ce19288cb189cba354083cbd98420.gifv" alt="street" width="200px" height="200px">
-     <img src="https://64.media.tumblr.com/1134424a23977124d1a96637e6a76a55/ff786dc87683218c-b3/s540x810/9e2c44f4c85581e6b84344f3dda2f56e6a647a3c.gifv" alt="street" width="200px" height="200px">
-     <img src="https://64.media.tumblr.com/152bf23936a3223aa6feb9661368ade1/tumblr_ob7ncse4ZK1uaxxq8o1_640.gifv" alt="spring" width="200px" height="200px">
-     <img src="https://64.media.tumblr.com/2d9b7b6d83f953b0d07fae4c34872fe6/ff786dc87683218c-28/s540x810/0bf86ce21fbb914ca330e8e7461f5e3ed70dd933.gifv" alt="street" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/01fe8e5becc60a62004c476e0b68ca72/ff786dc87683218c-8a/s540x810/32b61bc3f18ce19288cb189cba354083cbd98420.gifv" alt="street" width="100%" height="100%">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
