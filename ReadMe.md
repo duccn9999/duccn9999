@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="[![Uploading image.png…]()](https://i.pinimg.com/originals/2f/bd/a9/2fbda9c7f3353c6ecfdbe38e9c4b3b7a.gif)" alt="ahegao" width="100px" height="100px">
+    <img src="[[![Uploading image.png…]()](https://i.pinimg.com/originals/2f/bd/a9/2fbda9c7f3353c6ecfdbe38e9c4b3b7a.gif)](https://i.pinimg.com/originals/be/02/66/be0266a41692b64ac4be0b7dc203b789.gif)" alt="ahegao" width="100px" height="100px">
     <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
     <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
     <img src="https://www.nicepng.com/png/full/157-1570839_ahegaoface-ahegao-manga-nicoyazawa-lovelive-ahegao.png" alt="ahegao" width="100px" height="100px">
