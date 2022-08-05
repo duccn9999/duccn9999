@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://64.media.tumblr.com/01fe8e5becc60a62004c476e0b68ca72/ff786dc87683218c-8a/s540x810/32b61bc3f18ce19288cb189cba354083cbd98420.gifv" alt="street" width="100%" height="100%">
+    <img src="https://c.tenor.com/drxnIXprOO0AAAAC/mathikde-godfather.gif" alt="street" width="100%" height="100%">
     <img src="https://64.media.tumblr.com/152bf23936a3223aa6feb9661368ade1/tumblr_ob7ncse4ZK1uaxxq8o1_640.gifv" alt="street" width="100%" height="100%">
 </div>
 <h3 align="left">Connect with me:</h3>
