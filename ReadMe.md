@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="1" width="100px" height="100px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="2" width="100px" height="100px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="3" width="100px" height="100px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="4" width="100px" height="100px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="5" width="100px" height="100px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="6" width="100px" height="100px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="7" width="100px" height="100px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="8" width="100px" height="100px">
+    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="1" width="400px" height="100px">
+    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="2" width="400px" height="100px">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
