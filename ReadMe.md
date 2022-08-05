@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao">
-    <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao">
-    <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao">
-    <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao">
+    <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
+    <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
+    <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
+    <img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
