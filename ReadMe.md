@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
+<img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
+<img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
+<img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
+<img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://duchenangngoaitroi.net/wp-content/uploads/2022/02/ahegao-la-gi-1.jpg" alt="ahegao" width="100px" height="100px">
 <a href="https://www.leetcode.com/bbbvvvv441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bbbvvvv441" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
