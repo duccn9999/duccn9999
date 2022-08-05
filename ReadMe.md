@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://64.media.tumblr.com/069ba4186905cfedd6b5f1bd1d847f56/79bf07d305604f47-6f/s500x750/4c2718ef336c10da0b7556b4e82c27af0ebfe9ad.gifv" alt="flowers" width="100px" height="100px">
-    <img src="https://64.media.tumblr.com/95cc82ff16679e9e91221bfb955cbf05/tumblr_onjnhkbxxi1tlcfymo1_500.gifv" alt="blossom" width="100px" height="100px">
-    <img src="https://64.media.tumblr.com/8752f953fb24373c8fed70070ea7d8d2/tumblr_pd9yzzIUXE1x6a7yto1_250.gifv" alt="rain" width="100px" height="100px">
-    <img src="https://64.media.tumblr.com/71eea599069b67c868eedb7595c0cb7c/tumblr_pcl1pbklw91tj52dfo1_540.gifv" alt="flower forest" width="100px" height="100px">
+    <img src="https://64.media.tumblr.com/0db75c59ba8b54dd06a99c20d6bcea91/ff786dc87683218c-92/s540x810/ba8feefd4b462e95f9587ca4b882f7de1ac9f382.gifv" alt="sky scrapper" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/36bdf4646936b8726aba7616bffd506a/ff786dc87683218c-b4/s540x810/d18ade9fbf318da150bdb2ccd211f2341cda7ceb.gifv" alt="town" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/2d9b7b6d83f953b0d07fae4c34872fe6/ff786dc87683218c-28/s540x810/0bf86ce21fbb914ca330e8e7461f5e3ed70dd933.gifv" alt="sky scrapper" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/1134424a23977124d1a96637e6a76a55/ff786dc87683218c-b3/s540x810/9e2c44f4c85581e6b84344f3dda2f56e6a647a3c.gifv" alt="town" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/976fdca66fdf637fd9c0ce2f38164714/ff786dc87683218c-ea/s540x810/2c0f18de2574159318297957604999cda9f9d2a4.gifv" alt="sky scrapper" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/a30b3e779e2c5e06099540524200e5cf/ff786dc87683218c-2d/s540x810/411d80fd454dc2d2802028aea6239e752a815470.gifv" alt="town" width="200px" height="200px">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
