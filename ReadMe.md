@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="1" width="200px" height="200px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="2" width="200px" height="200px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="1" width="200px" height="200px">
-    <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" alt="2" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/3850100b644f37d2c5dda28125916adc/a35255f1471e0ae3-15/s500x750/13438e48d154dfb0c12ec93590f3650598a91a12.gifv" alt="spring" width="200px" height="200px">
+    <img src="https://i.imgur.com/cLuxcZh.gif" alt="summer" width="200px" height="200px">
+    <img src="https://cutewallpaper.org/25/anime-autumn-gif-hd-wallpaper/130-anime-gifs--ideas-anime-aesthetic-anime-aesthetic-gif.gif" alt="fall" width="200px" height="200px">
+    <img src="https://64.media.tumblr.com/af755c01adea99ef67ba82f24b79b93a/382b8c737c85aa93-6e/s500x750/206d132b032a26c59feed7cc3c42a32b5c0505a9.gifv" alt="winter" width="200px" height="200px">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
