@@ -15,4 +15,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mentallyhandicapped69&" alt="mentallyhandicapped69" /></p>
 
 
-![](https://github.com/MentallyHandicapped69/https://data.whicdn.com/images/241172997/original.gif)
