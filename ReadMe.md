@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">A Sophomore from FPT university</h3>
 <div>
-    <img src="https://i.pinimg.com/originals/39/ed/7f/39ed7f48269fc4de84a43825868d06ce.gif" alt="flowers" width="100%" height="100%">
+    <img src="https://64.media.tumblr.com/129db3e15a642b643ce545807ef2db49/62832e90c70acf00-dc/s540x810/7b1a9bdf9ac806a68686efac12574cf3c9f78cea.gifv" alt="flowers" width="100%" height="100%">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
