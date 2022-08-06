@@ -48,7 +48,7 @@
 ## Connect with me  
 <div>
 <a href="https://github.com/MentallyHandicapped69" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style alt=github style="margin-bottom: 5px;" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
   
