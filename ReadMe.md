@@ -49,6 +49,9 @@
 <a href="https://github.com/MentallyHandicapped69" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://github.com/MentallyHandicapped69" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
