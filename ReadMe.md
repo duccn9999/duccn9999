@@ -1,11 +1,7 @@
+### <div align="center">I'm Duc, a Sophomore  👨‍💻🚀</div>  
 <div align="center">
 <img src="https://64.media.tumblr.com/069ba4186905cfedd6b5f1bd1d847f56/79bf07d305604f47-6f/s500x750/4c2718ef336c10da0b7556b4e82c27af0ebfe9ad.gifv" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm Duc, a Sophomore  👨‍💻🚀</div>  
-  
-
 - 🔭 I’m currently working on my first project ( its a secret )  
   
 
@@ -46,19 +42,14 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://github.com/MentallyHandicapped69" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
 </div>  
   
 
