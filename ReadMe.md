@@ -5,6 +5,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MentallyHandicapped69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![MentallyHandicapped69's GitHub stats](https://github-readme-stats.vercel.app/api?username=MentallyHandicapped69)](https://github.com/MentallyHandicapped69/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=MentallyHandicapped69)](https://github.com/MentallyHandicapped69/github-readme-stats)
 
 
