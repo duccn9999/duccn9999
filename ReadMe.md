@@ -6,5 +6,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MentallyHandicapped69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MentallyHandicapped69)](https://github.com/MentallyHandicapped69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MentallyHandicapped69)
 
