@@ -1,6 +1,6 @@
 <h1 align="left">Hi fellow 👋</h1>
 
-<iframe src="https://giphy.com/embed/fUpvkRuLKE4xMBJLvH" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animatr-90s-anime-aesthetic-highway-bicycling-fUpvkRuLKE4xMBJLvH">via GIPHY</a></p>
+<img src="https://gifdb.com/images/high/aesthetic-anime-phone-call-sleep-z3fj9deaprvwlh72.webp"/>
 
 
 
