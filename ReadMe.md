@@ -1,10 +1,4 @@
 <h1 align="left">Hi fellow 👋</h1>
-
-<img src="https://gifdb.com/images/high/aesthetic-anime-phone-call-sleep-z3fj9deaprvwlh72.webp"/>
-
-
-
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊 GitHub Stats:
