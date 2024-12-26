@@ -3,9 +3,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=duccn9999&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=duccn9999&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duccn9999&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![duccn9999's Stats](https://github-readme-stats.vercel.app/api?username=duccn9999&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![duccn9999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=duccn9999&theme=vue-dark&hide_border=true)
+![duccn9999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duccn9999&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
